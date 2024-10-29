@@ -1,0 +1,13 @@
+# Node.js
+npm-debug.log
+yarn-error.log
+.DS_Store
+node_modules/
+.env
+
+# Other
+.vscode/
+.idea/
+target/
+
+# В этом примере мы игнорируем npm-debug.log и yarn-error.log файлы, .DS_Store файлы, node_modules директорию, package-lock.json файл, .env файл, .vscode и .idea директории, а также target директорию. Вы можете добавить в этот список любые другие файлы или директории, которые вам нужны.
